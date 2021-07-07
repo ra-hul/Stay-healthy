@@ -14,10 +14,17 @@ h2{
 .half-width{
     width: 50%;
     margin: 100px;
+    box-shadow:  10px 10px 40px gray;
+    padding-left: 3%;
+    padding-top: 2%;
+    padding-right: 0%;
+    border-radius: 20px;
 }
 .half-width img{
     width: 80%;
     border-radius: 10px;
+    margin-bottom: 90px;
+  
 }
 .display-flex{
     display: flex;
@@ -36,10 +43,12 @@ h2{
     left: 60%;
     transform: translate(-5%, -5%);
     
+    
 }
 .container{
     position: relative;
     text-align: center;
+  
     
 }
 .center-two{
