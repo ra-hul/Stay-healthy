@@ -7,6 +7,10 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    text-align: center;
+    color: gray;
+}
 .half-width{
     width: 50%;
     margin: 100px;
@@ -56,4 +60,7 @@ h1{
     position: absolute;
     left: 70%;
     bottom: 5%;
+}
+.recps{
+    padding-left: 400px;
 }
