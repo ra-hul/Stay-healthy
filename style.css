@@ -1,0 +1,27 @@
+body{
+    font-family: 'Asap', sans-serif;
+}
+.red_color{
+    color: red;
+}
+h1{
+    font-size: 50px;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 80%;
+    border-radius: 10px;
+}
+.display-flex{
+    display: flex;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red, salmon);
+    background-color: red;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+}
